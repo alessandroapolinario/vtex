@@ -1,0 +1,19 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "photo": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MWYK2?wid=1144&hei=1144&fmt=jpeg&qlt=80&.v=1567304928359",
+            "name": "IPhone",
+            "description": "Descrição do produto",
+            "price": 6000
+        },
+        {
+            "id": 2,
+            "photo": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MWYK2?wid=1144&hei=1144&fmt=jpeg&qlt=80&.v=1567304928359",
+            "name": "Galaxy",
+            "description": "Descrição do produto",
+            "price": 3000
+        }
+    ]
+
+}
